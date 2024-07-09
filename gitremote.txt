@@ -1,0 +1,8 @@
+steps to create git repository
+1. create a repository in git hub
+2. make a document README.md as mentioned in git hub
+3. do -> git add README.md to add repository in git   
+   do -> git commit -m "create a message to show changes in git log"
+4. do -> git push -u origin master (to push document made by you in git hub repository)
+
+IF YOU WANT TO WORK ON SAME REPOSITORY THEN MAKE SURE THAT YOU CREATE FILES IN SAME REPOSITORY AS MENTIONED IN GIT HUB
