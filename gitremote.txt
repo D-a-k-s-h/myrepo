@@ -8,3 +8,5 @@ steps to create git repository
 IF YOU WANT TO WORK ON SAME REPOSITORY THEN MAKE SURE THAT YOU CREATE FILES IN SAME REPOSITORY AS MENTIONED IN GIT HUB
 
 dummy changes used to see how git pull works on git desktop
+
+new change to see how commit message works in git hub desktop
