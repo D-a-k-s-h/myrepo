@@ -10,3 +10,5 @@ IF YOU WANT TO WORK ON SAME REPOSITORY THEN MAKE SURE THAT YOU CREATE FILES IN S
 dummy changes used to see how git pull works on git desktop
 
 new change to see how commit message works in git hub desktop
+
+new change added to see how pull request works
